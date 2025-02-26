@@ -1,0 +1,3 @@
+[site]
+localhost ansible_connection=local
+poo-king ansible_connection=local
